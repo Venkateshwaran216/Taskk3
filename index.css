@@ -1,0 +1,60 @@
+body{
+  background-color: ;
+  color: black;
+  margin: ;
+  
+  
+}
+
+.des{
+  color:white;
+}
+
+,h1{
+  color: white;
+}
+
+.six{
+  color: gold;
+}
+
+.one{
+  text-decoration:underline;
+  color:black;
+}
+.banner{
+  background-color: cornflowerblue;
+}
+.about{
+   margin-top:-22px;
+  background-color: gainsboro;
+}
+
+.image{
+  background-color: cornflowerblue;
+  margin-top: -10px;
+}
+
+h2{
+  text-decoration:underline;
+}
+.table{
+  background-color: gainsboro;
+  margin-top: -25px;
+}
+
+.flyer{
+  background-color: gainsboro;
+  margin-top: -25px;
+}
+form{
+  background-color:cornflowerblue;
+  color:white;
+}
+label{
+  text-align:left;
+}
+
+input{
+  background-color: white;
+}
